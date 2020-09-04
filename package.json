@@ -20,7 +20,7 @@
 		"lodash": "^4.17.11",
 		"material-ui-snackbar-provider": "^1.1.0",
 		"morphism": "^1.10.0",
-		"node-sass": "^4.11.0",
+		"node-sass": "^4.13.1",
 		"qs": "^6.8.0",
 		"react": "^16.8.6",
 		"react-beautiful-dnd": "^10.1.1",
